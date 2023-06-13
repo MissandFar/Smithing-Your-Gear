@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": 
+    [],
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "tag": "minecraft:swords"
+  },
+  "result": {
+    "item": "minecraft:netherite_sword"
+  }
+}
