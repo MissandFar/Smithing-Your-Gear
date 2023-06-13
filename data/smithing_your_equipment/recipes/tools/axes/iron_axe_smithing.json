@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "tag": "minecraft:axes"
+  },
+  "result": {
+    "item": "minecraft:iron_axe"
+  }
+}
