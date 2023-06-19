@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": 
+    [],
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "tag": "smithing_your_gear:leggings"
+  },
+  "result": {
+    "item": "minecraft:diamond_leggings"
+  }
+}

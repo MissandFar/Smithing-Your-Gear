@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": 
+    [],
+  "addition": {
+    "tag": "minecraft:stone_tool_materials"
+  },
+  "base": {
+    "tag": "minecraft:shovels"
+  },
+  "result": {
+    "item": "minecraft:stone_shovel"
+  }
+}

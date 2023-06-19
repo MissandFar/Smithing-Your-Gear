@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": 
+    [],
+  "addition": {
+    "item": "minecraft:chain"
+  },
+  "base": {
+    "tag": "smithing_your_gear:chestplates"
+  },
+  "result": {
+    "item": "minecraft:chainmail_chestplate"
+  }
+}

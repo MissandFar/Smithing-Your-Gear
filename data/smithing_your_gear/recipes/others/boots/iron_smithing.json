@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": 
+    [],
+  "addition": {
+    "item": "minecraft:iron_ingot"
+  },
+  "base": {
+    "tag": "smithing_your_gear:boots"
+  },
+  "result": {
+    "item": "minecraft:iron_boots"
+  }
+}
