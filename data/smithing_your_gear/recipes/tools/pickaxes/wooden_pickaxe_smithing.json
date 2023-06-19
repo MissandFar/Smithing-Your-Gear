@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "tag": "minecraft:planks"
+  },
+  "base": {
+    "tag": "minecraft:pickaxes"
+  },
+  "result": {
+    "item": "minecraft:wooden_pickaxe"
+  }
+}
